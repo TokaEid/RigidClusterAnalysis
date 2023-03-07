@@ -1,2 +1,2 @@
 # RigidClusterAnalysis
-These files were my first python project. It was before I had had any python training or experience and I basically learned as I went. Humorously, these codes are quite inefficient and clearly show how weak my Python skills were. 
+These files were my first python project. It was before I had had any python training or experience and I basically learned as I went. Humorously, these codes are quite inefficient and clearly show how weak my Python skills were. I endeavor to return to this project later and rewrite these codes in a much more efficient manner to highlight how I've grown as a programmer over the years.  
